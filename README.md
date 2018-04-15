@@ -29,3 +29,5 @@ For this Alexa skill xAPI project, I've already created the framework to develop
 8. **xAPI** - of course, the project would not be complete without the integration of xAPI. Since I've never tried integrating xAPI with an Alexa skill I'm going to treat it the same way I would a website and use the xAPI Wrapper to... well wrap my code. The wrapper has a bunch of functionalities built into it taking the burden off me when I get coding.
 
 link to the article that has all the tool links  https://www.linkedin.com/pulse/kicking-off-my-xapi-cohort-project-myra-roldan-m-ed-mba/ (edited)
+
+**APRIL 2018 UPDATE** We tested more than one tool to build the story but ultimately used http://twinery.org to create the story as it can be saved as an html file and formated for JSON. 
