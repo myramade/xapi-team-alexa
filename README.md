@@ -25,7 +25,7 @@ For this Alexa skill xAPI project, we used a variety of tools for this project, 
 **Additional**
 1. link to the article that has all the tool links  https://www.linkedin.com/pulse/kicking-off-my-xapi-cohort-project-myra-roldan-m-ed-mba/ (edited) (this was the original post created at the start of the project - a post looking back at our process will be shared soon)
 
-
+**To begin building your Alexa skill - create your Voice User Interface (VUI) in Twine and publish your story. Then follow the [instructions here ](https://github.com/mirarol/xapi-team-alexa/blob/master/interaction%20models/developer-instructions.md)
 
 _Question? Contact Myra at myraroldan@me.com_
 
