@@ -20,7 +20,7 @@ For this Alexa skill xAPI project, we used a variety of tools for this project, 
 6. **Echosim.io** (http://echosim.io)  - this tool is used to simulate an Alexa device. We will use it to test the interaction with our skill the way a user would. The cool things about this tool is that when you connect to it using the same account you use to create your skill, it will link to all the skills you've created and you can call each on to action using the skill name to test it.
 7. **WaxLRS** (http://saltbox.com) - this is the Learning Record Store (LR) system that we will use to capture the xAPI statements.
 8. **xAPI** - of course, the project would not be complete without the integration of xAPI. Since I've never tried integrating xAPI with an Alexa skill I'm going to treat it the same way I would a website and use the xAPI Wrapper to... well wrap my code. The wrapper has a bunch of functionalities built into it taking the burden off me when I get coding.
-**Alexa Skills Template** - we used an existing skills template which really helped cut down on the amount of coding we had to do
+9. **Alexa Skills Template** - we used an existing skills template which really helped cut down on the amount of coding we had to do
 
 **Additional**
 1. link to the article that has all the tool links  https://www.linkedin.com/pulse/kicking-off-my-xapi-cohort-project-myra-roldan-m-ed-mba/ (edited) (this was the original post created at the start of the project - a post looking back at our process will be shared soon)
