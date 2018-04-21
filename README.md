@@ -2,9 +2,9 @@
 xAPI Cohort Team Alexa Project. 
 This project is built for the Winter Feb 2018 xAPI Cohort. 
 Credits:
-**Samantha Lowe** - Created the Original Tornado Test story.
-**Henry Ring and Erika Nelsen** - collaborated on the story
-**Bryan Wanzer and Myra Roldan** - worked on coding the project, deciding which skills template to use and ultimately building and troubleshooting the skill until it worked. YAY! Bryan for being the keen troubleshooter we needed. Without him this project probably would have failed. 
+* **Samantha Lowe** - Created the Original Tornado Test story.
+* **Henry Ring and Erika Nelsen** - collaborated on the story
+* **Bryan Wanzer and Myra Roldan** - worked on coding the project, deciding which skills template to use and ultimately building and troubleshooting the skill until it worked. YAY! Bryan for being the keen troubleshooter we needed. Without him this project probably would have failed. 
 
 **Final Product**
 We were able to complete a decision game Alexa skill that is xAPI enabled. The process wasn't as straight forward as we hoped but we were able to figure it out. We have added instructions for create a _Lambda function_ that is required for your skill to work. I will add instructions for the steps you need to follow to create the Alexa skill using the Alexa skill builder in the developer console. 
