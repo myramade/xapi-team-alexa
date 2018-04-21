@@ -38,4 +38,4 @@ You will need to create a new Lambda function for your Alexa skill. Follow these
 16. Once the package is uploaded copy the **ARN** that appear on the top of your screen. _This will be pasted in to the Endpoint section of your Alexa skill in the Developer panel._
 ![ARN](src/arn.png "ARN screenshot") 
 
-[**NEXT STEP**](https://github.com/mirarol/xapi-team-alexa/blob/master/interaction%20models/developer-instructions)
+[**NEXT STEP**](https://github.com/mirarol/xapi-team-alexa/blob/master/interaction%20models/developer-instructions.md)
