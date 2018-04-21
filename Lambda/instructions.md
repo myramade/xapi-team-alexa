@@ -9,7 +9,7 @@ You will need to create a new Lambda function for your Alexa skill. Follow these
 **AWS LAMBDA SCREEN**
 
 3. On the AWS Lambda screen under Functions, select the **Create function** option. 
-![lambda function](src/lambda-funcation.png "Lambda function screenshot") 
+![lambda function](xapi-team-alexa/src/lambda-funcation.png "Lambda function screenshot") 
 4. Enter Your function name. 
 5. Leave the _Runtime_ as Node.js 6.10. 
 6. For the _Role_ select **Create new role from template**
